@@ -1,3 +1,5 @@
+flutter run --dart-define=GEMMA_4B_GPU_URI=https://www.kaggle.com/api/v1/models/yashpapa6969/gemma_scam/tfLite/gemma_scam/1/download
+
 1. a) Imagine you are working as a cybersecurity analyst for a financial institution, you
 have been assigned the critical task of conducting a Nessus vulnerability analysis on a
 critical host system (windows, Linux) in the local network hosting sensitive customer
